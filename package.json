@@ -1,14 +1,14 @@
 {
-  "name": "Ghostium",
-  "version": "2.3.2",
+  "name": "ghostium",
+  "version": "2.3.4",
   "description": "A Ghost theme focused on content based on Medium design/ux",
   "url": "http://ghostium.oswaldoacauan.com/",
   "copyright": "2013",
   "license": "MIT",
   "author": {
-    "name": "Oswaldo Acauan",
-    "email": "hello@oswaldoacauan.com",
-    "url": "http://oswaldoacauan.com"
+    "name": "Oswaldo Acauan / Jens Frost",
+    "email": "post@j-frost.dk",
+    "url": "https://j-frost.dk"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "keywords": [
     "ghost",
+    "ghost-theme",
     "blog",
     "theme",
     "medium"
